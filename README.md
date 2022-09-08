@@ -1,4 +1,4 @@
-<h1 align="center">To-do 📝</h1>
+<h1 align="center">Lista de Tarefas📝</h1>
    
 <h3 align="center">Clique aqui ⤵️</h3>   
 <a href="https://to-do-projects-gustavo.vercel.app"><img src="https://cdn.discordapp.com/attachments/876799799255531523/1016478206053859329/to-do.png"></a>
